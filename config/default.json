@@ -1,0 +1,11 @@
+{
+  "server": {
+    "hostname": "localhost",
+    "port": 80,
+    "https": {
+      "enabled": false,
+      "certFilename": "keys/localhost/server.crt",
+      "keyFilename": "keys/localhost/server.key"
+    }
+  }
+}
